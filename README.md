@@ -1,4 +1,4 @@
-# mysql-explorer
+# db-explorer
 
 This is a small docker based shim for bulk importing sql backup files and giving you a quick web frontend to talk to for browsing the imported data.  Initially I expected this to be more complicated but both the mariadb and postgres stock images have the capacity to import sql and sql.gz files out of the box when wired up right.
 
